@@ -1,2 +1,7 @@
 # sunrise-page
-This is a simple animation page of rising sun and flying a group of birds coded by me using html and css. after opening in browser you can see the animation of rising sun with flying a group of birds. you will also see a good morning message on the page.
+This is a simple sun-rise animation page coded by me using html and css.
+if  you run the html page in browser it will show an animation of rising sun with flying a group of birds.
+after that it will show a "good morning all of you" message.
+hope you enjoyed the animation of rising-sun page.
+                     Thanks for downloading.
+                           ~Avinash kumar
